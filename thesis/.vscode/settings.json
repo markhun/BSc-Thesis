@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 60000,
+    "latex-workshop.chktex.enabled": true,
+    "latex-workshop.latex.clean.enabled": true,
+    "editor.wordWrap": "on",
+    "languageTool.language": "en"
+}

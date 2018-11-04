@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.rg": "lua",
+        "tuple": "cpp",
+        "chrono": "cpp"
+    }
+}

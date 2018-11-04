@@ -1,0 +1,154 @@
+level	start	end	color	opacity	title	initiation	in	out	children	parents	prof_uid
+2	5109195	5109224	#ff8c00	1.0	Deferred Enqueue Task	1					42
+2	5109270	5109331	#d0ff00	1.0	Scheduler	4295000016					400
+2	5109352	5109522	#00fcff	1.0	Task Physical Dependence Analysis	1					401
+2	5110054	5110080	#ff2300	1.0	Logical Dependence Analysis	3					402
+2	5110112	5110136	#333399	1.0	Deferred Ready Trigger	3					403
+2	5110151	5110314	#ff0800	1.0	Operation Physical Dependence Analysis	3					404
+2	5110340	5110344	#c4ff00	1.0	Tighten Index Space	12884901888					406
+2	5110356	5110357	#c4ff00	1.0	Tighten Index Space	12884901888					407
+2	5110370	5110976	#ff2300	1.0	Logical Dependence Analysis	4					408
+2	5110998	5111011	#333399	1.0	Deferred Ready Trigger	4					43
+2	5111033	5111049	#d0ff00	1.0	Scheduler	17179869184					410
+2	5111065	5111092	#333399	1.0	Deferred Ready Trigger	5					411
+2	5111109	5111116	#333399	1.0	Deferred Ready Trigger	6					412
+2	5111131	5111137	#333399	1.0	Deferred Ready Trigger	7					413
+2	5111152	5111157	#333399	1.0	Deferred Ready Trigger	8					414
+2	5111173	5111178	#333399	1.0	Deferred Ready Trigger	9					415
+2	5111194	5111199	#333399	1.0	Deferred Ready Trigger	10					416
+2	5111213	5111219	#333399	1.0	Deferred Ready Trigger	11					44
+2	5111239	5111245	#333399	1.0	Deferred Ready Trigger	12					417
+2	5111261	5114507	#ff2300	1.0	Logical Dependence Analysis	13					418
+2	5114525	5114529	#ff4a00	1.0	Prepipeline Stage	4					419
+2	5114533	5114752	#00fcff	1.0	Task Physical Dependence Analysis	4					420
+2	5114752	5114770	#00fcff	0.15	Task Physical Dependence Analysis (waiting)	4					420
+2	5114770	5114798	#00fcff	0.45	Task Physical Dependence Analysis (ready)	4					420
+2	5114798	5115207	#00fcff	1.0	Task Physical Dependence Analysis	4					420
+1	5114557	5115026	#ff4100	1.0	Mapper Call map_task for 4	4					378
+2	5115215	5115244	#333399	1.0	Deferred Ready Trigger	21					421
+2	5115256	5115260	#333399	1.0	Deferred Ready Trigger	24					422
+2	5115268	5115302	#ff0800	1.0	Operation Physical Dependence Analysis	5					45
+2	5115311	5115326	#ff0800	1.0	Operation Physical Dependence Analysis	6					46
+2	5115336	5115345	#ff0800	1.0	Operation Physical Dependence Analysis	7					47
+2	5115354	5115366	#ff0800	1.0	Operation Physical Dependence Analysis	8					48
+2	5115375	5115385	#ff0800	1.0	Operation Physical Dependence Analysis	9					49
+2	5115394	5115403	#ff0800	1.0	Operation Physical Dependence Analysis	10					50
+2	5115418	5115429	#ff0800	1.0	Operation Physical Dependence Analysis	11					51
+2	5115439	5115452	#ff0800	1.0	Operation Physical Dependence Analysis	12					423
+2	5115463	5115471	#333399	1.0	Deferred Ready Trigger	23					424
+2	5115481	5115515	#333399	1.0	Deferred Ready Trigger	22					53
+2	5115528	5115533	#ff0800	1.0	Operation Physical Dependence Analysis	24					55
+2	5115540	5115545	#333399	1.0	Deferred Ready Trigger	13					56
+2	5115553	5115561	#006600	1.0	Post-Task Execution	4					57
+2	5115569	5115620	#cdff00	1.0	Deferred Post-Task Execution	4					58
+2	5115630	5115757	#ff0800	1.0	Operation Physical Dependence Analysis	13					59
+2	5115775	5115785	#d0ff00	1.0	Scheduler	55834574848					61
+2	5115793	5115799	#d0ff00	1.0	Scheduler	55834574848					62
+2	5115807	5116468	#00fcff	1.0	Task Physical Dependence Analysis	47					425
+2	5116483	5116991	#00fcff	1.0	Task Physical Dependence Analysis	48					426
+2	5117007	5117021	#333399	1.0	Deferred Ready Trigger	25					427
+2	5117034	5117038	#333399	1.0	Deferred Ready Trigger	26					64
+2	5117049	5117131	#ff0800	1.0	Operation Physical Dependence Analysis	25					428
+2	5117147	5117153	#ff0800	1.0	Operation Physical Dependence Analysis	26					429
+2	5117165	5117187	#333399	1.0	Deferred Ready Trigger	27					66
+2	5117198	5117203	#333399	1.0	Deferred Ready Trigger	28					68
+2	5117210	5117215	#ff0800	1.0	Operation Physical Dependence Analysis	28					69
+2	5117222	5117225	#333399	1.0	Deferred Ready Trigger	14					430
+2	5117233	5117311	#ff0800	1.0	Operation Physical Dependence Analysis	14					70
+2	5117329	5117339	#d0ff00	1.0	Scheduler	60129542144					432
+2	5117352	5117360	#d0ff00	1.0	Scheduler	60129542144					433
+2	5117371	5117904	#00fcff	1.0	Task Physical Dependence Analysis	51					72
+2	5117925	5118375	#00fcff	1.0	Task Physical Dependence Analysis	52					74
+2	5118395	5118400	#333399	1.0	Deferred Ready Trigger	29					434
+2	5118412	5118416	#333399	1.0	Deferred Ready Trigger	33					76
+2	5118427	5118430	#333399	1.0	Deferred Ready Trigger	35					78
+2	5118439	5118445	#ff0800	1.0	Operation Physical Dependence Analysis	29					80
+2	5118455	5118474	#333399	1.0	Deferred Ready Trigger	31					435
+2	5118487	5118519	#333399	1.0	Deferred Ready Trigger	30					436
+2	5118532	5118537	#333399	1.0	Deferred Ready Trigger	15					437
+2	5118548	5118551	#ff0800	1.0	Operation Physical Dependence Analysis	33					81
+2	5118561	5118565	#ff0800	1.0	Operation Physical Dependence Analysis	35					82
+2	5118574	5118588	#333399	1.0	Deferred Ready Trigger	37					84
+2	5118599	5118622	#333399	1.0	Deferred Ready Trigger	36					438
+2	5118635	5118693	#ff0800	1.0	Operation Physical Dependence Analysis	15					439
+2	5118707	5118716	#d0ff00	1.0	Scheduler	64424509440					86
+2	5118732	5118740	#d0ff00	1.0	Scheduler	64424509440					440
+2	5118751	5119132	#00fcff	1.0	Task Physical Dependence Analysis	55					441
+2	5119148	5119529	#00fcff	1.0	Task Physical Dependence Analysis	56					442
+2	5119545	5119553	#333399	1.0	Deferred Ready Trigger	32					88
+2	5119567	5119650	#ff0800	1.0	Operation Physical Dependence Analysis	32					443
+2	5119664	5119679	#333399	1.0	Deferred Ready Trigger	34					90
+2	5119689	5119694	#333399	1.0	Deferred Ready Trigger	38					92
+2	5119703	5119707	#ff0800	1.0	Operation Physical Dependence Analysis	38					93
+2	5119716	5119719	#333399	1.0	Deferred Ready Trigger	16					444
+2	5119728	5119783	#ff0800	1.0	Operation Physical Dependence Analysis	16					445
+2	5119797	5119805	#d0ff00	1.0	Scheduler	68719476736					447
+2	5119816	5119822	#d0ff00	1.0	Scheduler	68719476736					448
+2	5119832	5120163	#00fcff	1.0	Task Physical Dependence Analysis	59					449
+2	5120178	5120519	#00fcff	1.0	Task Physical Dependence Analysis	60					450
+2	5120537	5120564	#333399	1.0	Deferred Ready Trigger	39					451
+2	5120587	5120591	#333399	1.0	Deferred Ready Trigger	40					452
+2	5120606	5120688	#ff0800	1.0	Operation Physical Dependence Analysis	39					453
+2	5120701	5120707	#ff0800	1.0	Operation Physical Dependence Analysis	40					454
+2	5120716	5120737	#333399	1.0	Deferred Ready Trigger	41					455
+2	5120748	5120753	#333399	1.0	Deferred Ready Trigger	42					456
+2	5120761	5120765	#ff0800	1.0	Operation Physical Dependence Analysis	42					457
+2	5120773	5120778	#333399	1.0	Deferred Ready Trigger	17					458
+2	5120786	5120853	#ff0800	1.0	Operation Physical Dependence Analysis	17					94
+2	5120869	5120879	#d0ff00	1.0	Scheduler	73014444032					460
+2	5120891	5120899	#d0ff00	1.0	Scheduler	73014444032					461
+2	5120911	5121537	#00fcff	1.0	Task Physical Dependence Analysis	63					96
+2	5121545	5121949	#00fcff	1.0	Task Physical Dependence Analysis	64					98
+2	5121958	5121962	#333399	1.0	Deferred Ready Trigger	43					100
+2	5121967	5121978	#006600	1.0	Post-Task Execution	50					101
+2	5121983	5122051	#cdff00	1.0	Deferred Post-Task Execution	50					102
+2	5122060	5122122	#cdff00	1.0	Deferred Post-Task Execution	49					103
+2	5122129	5122136	#ff0800	1.0	Operation Physical Dependence Analysis	43					104
+2	5122141	5122159	#333399	1.0	Deferred Ready Trigger	45					106
+2	5122165	5122184	#333399	1.0	Deferred Ready Trigger	44					108
+2	5122190	5122195	#333399	1.0	Deferred Ready Trigger	18					109
+2	5122199	5122248	#ff0800	1.0	Operation Physical Dependence Analysis	18					110
+2	5122254	5122263	#d0ff00	1.0	Scheduler	77309411328					112
+2	5122268	5122274	#d0ff00	1.0	Scheduler	77309411328					113
+2	5122278	5122570	#00fcff	1.0	Task Physical Dependence Analysis	67					115
+2	5122583	5122878	#00fcff	1.0	Task Physical Dependence Analysis	68					117
+2	5122888	5122897	#333399	1.0	Deferred Ready Trigger	46					119
+2	5122903	5122919	#006600	1.0	Post-Task Execution	53					120
+2	5122925	5122971	#cdff00	1.0	Deferred Post-Task Execution	53					121
+2	5122978	5123032	#cdff00	1.0	Deferred Post-Task Execution	54					122
+2	5123040	5123078	#cdff00	1.0	Deferred Post-Task Execution	57					123
+2	5123086	5123131	#cdff00	1.0	Deferred Post-Task Execution	58					124
+2	5123139	5123250	#ff0800	1.0	Operation Physical Dependence Analysis	46					125
+2	5123261	5123271	#333399	1.0	Deferred Ready Trigger	19					126
+2	5123280	5123290	#d0ff00	1.0	Scheduler	81604378624					128
+2	5123299	5123304	#006600	1.0	Post-Task Execution	61					129
+2	5123312	5123360	#cdff00	1.0	Deferred Post-Task Execution	61					369
+2	5123371	5123482	#00fcff	1.0	Task Physical Dependence Analysis	19					370
+2	5123488	5123492	#333399	1.0	Deferred Ready Trigger	20					371
+2	5123496	5123499	#006600	1.0	Post-Task Execution	62					372
+2	5123503	5123551	#cdff00	1.0	Deferred Post-Task Execution	62					373
+2	5123558	5123565	#ff0800	1.0	Operation Physical Dependence Analysis	20					374
+2	5123569	5123693	#990000	1.0	Deferred Post Mapped	1					375
+2	5123699	5123700	#ff1100	1.0	Trigger Complete	1					376
+2	5123704	5123705	#FFC0CB	1.0	ProfTask <61>						380
+2	5123707	5123707	#FFC0CB	1.0	ProfTask <19>						382
+2	5123708	5123709	#FFC0CB	1.0	ProfTask <20>						384
+2	5123710	5123710	#FFC0CB	1.0	ProfTask <62>						386
+2	5123711	5123712	#FFC0CB	1.0	ProfTask <62>						388
+2	5123713	5123714	#FFC0CB	1.0	ProfTask <20>						390
+2	5123715	5123715	#FFC0CB	1.0	ProfTask <1>						392
+2	5123716	5123717	#FFC0CB	1.0	ProfTask <1>						394
+2	5124260	5124270	#006600	1.0	Post-Task Execution	65					130
+2	5124281	5124323	#cdff00	1.0	Deferred Post-Task Execution	65					131
+2	5124622	5124628	#006600	1.0	Post-Task Execution	66					132
+2	5124634	5124692	#cdff00	1.0	Deferred Post-Task Execution	66					133
+2	5124704	5124714	#006600	1.0	Post-Task Execution	69					462
+2	5124726	5124760	#cdff00	1.0	Deferred Post-Task Execution	69					463
+2	5124769	5124807	#cdff00	1.0	Deferred Post-Task Execution	70					464
+2	5125127	5125133	#006600	1.0	Post-Task Execution	19					134
+2	5125147	5125767	#0000FF	1.0	Deferred Execute	20					135
+2	5125780	5125862	#cdff00	1.0	Deferred Post-Task Execution	19					465
+2	5125876	5125926	#0dff00	1.0	Top Finish	0					466
+2	5125968	5125972	#ff9800	1.0	Garbage Collection	0					137
+2	5125982	5125991	#ff9800	1.0	Garbage Collection	0					138
+2	5126000	5126161	#ff9800	1.0	Garbage Collection	0					139
